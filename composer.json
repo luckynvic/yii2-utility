@@ -1,0 +1,18 @@
+{
+    "name": "luckynvic/yii2-utility",
+    "description": "Common Helper for yii2 framework",
+    "type": "library",
+    "require": {
+        "yiisoft/yii2": "^2.0"
+    },
+    "require-dev": {
+        "codeception/codeception": "^4.1"
+    },
+    "authors": [
+        {
+            "name": "Lucky Vic",
+            "email": "luckynvic@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
